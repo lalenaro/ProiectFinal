@@ -1,0 +1,52 @@
+.ItemStyle {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+  
+}
+
+.lineThrough {
+    text-decoration: line-through;
+}
+
+
+.itemStyle.MuiListItem-gutters {
+    margin:0px;
+    border-bottom: 1.5px solid rgb(228, 225, 225);
+    padding-left:0;
+}
+
+.iconItem.MuiListItemIcon-root {
+    min-width:auto;
+}
+
+/* .checkboxStyle {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+} */
+
+.itemAlign .MuiListItemText-primary{
+  
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items:flex-start;
+    
+    
+}
+.itemList {
+    display:flex;
+   
+    
+}
+.span1 {
+    padding-right: 5px;
+    text-align: left;
+    color:#ad274b;
+    
+}
+.span2 {
+    padding-left: 3px;
+}

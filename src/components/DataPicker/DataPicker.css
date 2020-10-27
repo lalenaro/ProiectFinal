@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+.title {
+    margin: auto;
+    font-family: 'Pacifico', cursive;
+    font-size: 2em;
+    text-align: center;
+    padding-top:10%;
+    color:#c95977;
+}
+.Typo {
+    margin-top: 10%;
+    color: #7D2A40;
+    padding: 10px;
+    font-size: 1.3em;
+    
+}
+.choose {
+   padding-bottom: 15px;
+   text-align:center;
+   
+}

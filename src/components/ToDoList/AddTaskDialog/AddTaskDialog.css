@@ -1,0 +1,11 @@
+.RadioButtons{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: nowrap;
+}
+
+#form-dialog-title {
+    color: #ad274b
+}
